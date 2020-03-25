@@ -11,9 +11,7 @@ You may also need to enable the CSS Class option in the menu
 
 What things you need to install the plugin
 
-```
 [GeneratePress Theme](https://wordpress.org/themes/generatepress/)
-```
 
 ### Installing
 
